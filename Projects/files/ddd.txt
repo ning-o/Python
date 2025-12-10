@@ -1,0 +1,8 @@
+hello world
+안녕
+hello world
+반가워요
+ohhhhh...
+방향키 윗키+엔터 누르면 이전 run 똑같이 실행됨
+싱기방기
+& C:/Users/Hiii/AppData/Local/Programs/Python/Python314/python.exe c:/Users/Hiii/MBCA/Python/Projects/ex17_function4_file.py
